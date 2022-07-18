@@ -15,7 +15,3 @@ Learn more about the course in [here](https://javascript30.com/).
 ## Screenshot
 
 ![Screendhot](./assets/screenshot.png)
-
-## Background
-
-<!-- Image by [Clay Banks](https://unsplash.com/@claybanks) on [Unsplash](https://unsplash.com/s/photos/dark-wallpaper). -->
